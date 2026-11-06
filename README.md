@@ -1,4 +1,4 @@
-- 👋 你好，我是上海交通大学集成电路学院的硕士生。
-- 👀 我对 AI Infra 感兴趣。
-- 🌱 熟练使用 Python、C/C++。
-- 🎯 目前正在超维无际（Infiscale）实习。
+- 🎓 Master's student at the School of Integrated Circuits, Shanghai Jiao Tong University.
+- ⚙️ Interested in AI infrastructure.
+- 💻 Proficient in Python and C/C++.
+- 🚀 Currently interning at Infiscale.
